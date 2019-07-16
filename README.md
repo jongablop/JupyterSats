@@ -1,4 +1,4 @@
-# jupyterSats
+# jupyterSats [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jongablop/jupyterSats/master?urlpath=%2Fapps%2Faplicacion.ipynb)
 Satellite ecosystem for physics orbiting around Jupyter
 
 **Abstract.** We present an interactive tool embed in an electronic laboratory notebook (Jupyter Notebook) that aims to create a good learning experience in the Introductory Physics Laboratory for the first year Physics students. The interaction environment is double: with the experiment; and with the peers in the lab team and the teacher. This interactive environment is very suitable for the teaching-learning process to be effective.
