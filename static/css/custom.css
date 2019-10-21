@@ -1,0 +1,107 @@
+html, body {
+	min-width: 100%;
+	background-image: url("../images/Jupiter_from_Voyager_1.jpg");
+	background-color: #8bb2d9 !important;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+#main-box{
+	/* max-width: 50%; */
+	background-color: white;
+	margin-top:1%;
+	border-radius:15px;
+	-moz-box-shadow: 4px 8px 16px rgba(0, 0, 0,0.5);
+    -webkit-box-shadow: 4px 8px 16px rgba(0, 0, 0, .5);
+	padding: 80px;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+#navigation-bar {
+	#background-image: linear-gradient(to left, rgba(105,105,105,0), rgba(105,105,105,1));	
+	background-color: rgba(0,0,0,0.75);
+	border-bottom: 1px solid white;
+}
+
+#navigation-bar > a{
+	color:white !important;
+}
+
+.link-boton{
+	color: #212529 !important;
+	/*color: white !important;*/
+}
+
+.link-boton .active{
+	color: #f0a613 !important;
+}
+
+p{
+	text-align:justify;
+	font-size: 18px;
+}
+
+a{
+	color: #f0a613 !important;
+}
+
+a:hover{
+	color: #cfa12d !important;
+	text-decoration: none !important;	
+}
+
+.boton{
+	padding: 15px;
+	border-radius: 5px;
+	border: 1px solid  #212529 !important;
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
+
+.boton:hover{
+	border: 1px solid #f7c136 !important;/*#a46a20 !important;
+	/*background-color: #a46a20!important;
+	color:white;*/
+}
+
+
+
+.boton-small{
+	padding:10px !important;
+	border-radius: 5px;
+	border: 1px solid  #212529 !important;
+	min-width:0% !important;
+	display:inline-block;
+}
+
+.boton-small:hover{
+	border: 1px solid  #f7c136 !important;
+}
+
+.timeline{
+	display:inline-block;
+}
+
+.timeline ul{
+	list-style-type: none;
+}
+
+.date {
+    float: left;
+    width: 6rem;
+    text-align: right;
+    color: #767676;
+    font-weight: 400;
+    line-height: 2.4rem;
+    margin-right: 3rem;
+}
+
+.title {
+    float: left;
+    color: #000;
+    font-weight: 400;
+    line-height: 2.4rem;
+}
