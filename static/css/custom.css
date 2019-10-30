@@ -53,6 +53,24 @@ a:hover{
 	text-decoration: none !important;	
 }
 
+input{
+	padding: 5px;
+	border-radius: 5px;
+	border: 1px solid  #212529 !important;
+	margin-top: 10%;
+	margin-bottom: 10%;
+	background-color: white !important;
+	margin-left: auto;
+}
+
+input:hover{
+	/*color:#f7c136;*/
+	border: 1px solid #f7c136 !important;/*#a46a20 !important;
+	/*background-color: #a46a20!important;
+	color:white;*/
+}
+
+
 .boton{
 	padding: 15px;
 	border-radius: 5px;
